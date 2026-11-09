@@ -1,0 +1,13 @@
+# Local Claude Code / plugin data
+.claude/data/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies and logs
+node_modules/
+*.log
+.env
